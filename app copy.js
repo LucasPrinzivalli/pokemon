@@ -1,7 +1,7 @@
 class Personnage {
     constructor(name,hp){
         this.name =name
-        this.hp = hp
+        this.hp = hP
 
     }
 }
